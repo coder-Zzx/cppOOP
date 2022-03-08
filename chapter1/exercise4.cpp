@@ -1,6 +1,6 @@
-/*±äÁ¿ÃûÒªÓÃÓÐÒâÒåµÄÃû×Ö!!!
- *±äÁ¿ÃûÒªÓÃÓÐÒâÒåµÄÃû×Ö!!!
- *±äÁ¿ÃûÒªÓÃÓÐÒâÒåµÄÃû×Ö!!!*/
+/*å˜é‡åè¦ç”¨æœ‰æ„ä¹‰çš„åå­—!!!
+ *å˜é‡åè¦ç”¨æœ‰æ„ä¹‰çš„åå­—!!!
+ *å˜é‡åè¦ç”¨æœ‰æ„ä¹‰çš„åå­—!!!*/
 #include<iostream>
 #include<cstring>
 using namespace std;
